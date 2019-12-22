@@ -1,11 +1,11 @@
 {
   "name": "spy-puppet_conf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "spy",
   "summary": "Manage puppet.conf flexibly",
   "license": "Apache-2.0",
   "source": "https://github.com/ratbox/puppet-puppet_conf",
-  "project_page": "https://github.com/ratbox/puppet-puppet_conf/blob/master/README.md",
+  "project_page": "https://github.com/ratbox/puppet-puppet_conf",
   "issues_url": "https://github.com/ratbox/puppet-puppet_conf/issues",
   "dependencies": [
     {
