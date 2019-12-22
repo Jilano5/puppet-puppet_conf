@@ -2,9 +2,11 @@
   "name": "spy-puppet_conf",
   "version": "1.0.0",
   "author": "spy",
-  "summary": "",
+  "summary": "Manage puppet.conf flexibly",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/ratbox/puppet-puppet_conf",
+  "project_page": "https://github.com/ratbox/puppet-puppet_conf/blob/master/README.md",
+  "issues_url": "https://github.com/ratbox/puppet-puppet_conf/issues",
   "dependencies": [
     {
       "name": "puppetlabs/inifile",
