@@ -47,6 +47,8 @@ The `puppet_conf` resource type has three attributes:
 * `ensure` (default: `present`) &ndash; manages a setting as `present` or `absent`;
 * `value` &ndash; value for the setting; if set to `undef`, the behavior is to remove the setting.
 
+This resource type may serve as an example of implementing a child provider as described in documentation to the [puppetlabs/inifile](https://forge.puppet.com/puppetlabs/inifile) module.
+
 ### puppet_conf class
 
 The `puppet_conf` class has two attributes:
