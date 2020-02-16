@@ -13,7 +13,7 @@ Puppet::Type.type(:puppet_conf).provide(
   end
 
   def self.file_path
-    Facter.value(:puppet_config)
+    Puppet.settings['config']
   end
 end
 
